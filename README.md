@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a software developer who loves solve problems using different types of technologies. In my programmer life, I've already contributed in projects using Ionic, Asp.Net Core, AngularJS. Nowadays, About three years from now, I've been specializing myself in Java Development with the following stack:
+## I'm a software developer who loves solve problems using different types of technologies. In my programmer life, I've already contributed in projects using Ionic, Asp.Net Core, AngularJS. Since 2019, I've been specializing myself in Java Development with the following stack:
 
   * Object Oriented Concepts
       * Interfaces
