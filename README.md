@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **GuhTiagoSilva/GuhTiagoSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a software developer who loves solve problems using different types of technologies. In my programmer life, I've already contributed in projects using Ionic, Asp.Net Core, AngularJS. Nowadays, About three years from now, I've been specializing myself in Java Development with the following stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  *Object Oriented Concepts
+      * Interfaces
+      * Inheritance
+      * Encapsulation
+      * Polymorphism
+
+  *Data Structures
+      * Big-O Notation
+      * Queues
+      * Stacks
+      * Tress
+
+  *Database Integration
+      * JDBC
+      * ORM
+      * Hibernate
+      * JPA
+      
+  * Web Development 
+      * Spring Boot - API RestFul
+      * Spring Security
+      * Spring Data
+      * Spring Cloud
+      
+  * Other Technologies I used to integrate in my Java Projects
+      * Oauth 2.0
+      
+  
+  ## Databases 
+  
+    * Oracle
+    * MySQL
+    * SQLServer
+    * PostgreSQL
+
