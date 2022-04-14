@@ -8,12 +8,6 @@
       * Encapsulation
       * Polymorphism
 
-  * Data Structures
-      * Big-O Notation
-      * Queues
-      * Stacks
-      * Tress
-
   * Database Integration
       * JDBC
       * ORM
